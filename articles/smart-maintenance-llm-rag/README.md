@@ -129,26 +129,37 @@ Despite the promising future of LLM-RAG systems in smart maintenance, several ch
 Despite the promising future of LLM-RAG systems in smart maintenance, several challenges remain. Key among these are ensuring data privacy and security, managing the volume and variety of industrial data, and addressing the skill gaps among maintenance personnel. Addressing these challenges will require concerted efforts in cybersecurity, data management, and workforce training. Moreover, fostering industry-wide standards and protocols for the deployment of AI in maintenance will be crucial for achieving interoperability and maximizing the potential of these technologies.
 
 ## 6. References
-- Lee, J., Wu, F., Zhao, W., & Ghaffari, M. (2014). Prognostics and health management design for rotary machinery systems — Reviews, methodology and applications. Mechanical Systems and Signal Processing, 42(1), 314-334.
-- Zhang, Y., & Li, Y. (2022). Prognostics and health management of Lithium-ion battery using deep learning methods: A review. Renewable and Sustainable Energy Reviews, 161, 112282.
-- Ren, Z., Verma, A.S., Li, Y., & Teuwen, J.J.E., et al. (2021). Offshore wind turbine operations and maintenance: A state-of-the-art review. Renewable and Sustainable Energy Reviews, 144, 110886.
-- Erdogan, Z., Altuntas, S., & Dereli, T. (2022). Predicting Patent Quality Based on Machine Learning Approach. IEEE Transactions on Engineering Management, 1-14.
 - Alaka, H., Oyedele, L., Owolabi, H., & Akinade, O., et al. (2019). A Big Data Analytics Approach for Construction Firms Failure Prediction Models. IEEE Transactions on Engineering Management, 66(4), 689-698.
-- Wang, H., Li, Y., & Ren, J. (2023). Machine learning for fault diagnosis of high-speed train traction systems: A review. Frontiers of Engineering Management, 1-17.
-- Zhou, C., Li, Q., Li, C., & Yu, J., et al. (2023). A Comprehensive Survey on Pretrained Foundation Models: A History From Bert to Chatgpt. [Online]. Available: https://arxiv.org/abs/2302.09419.
-- Cao, Y., Li, S., Liu, Y., & Yan, Z., et al. (2023). A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI From GAN to Chatgpt. [Online]. Available: https://arxiv.org/abs/2303.04226.
-- Ouyang, L., Wu, J., Jiang, X., & Almeida, D., et al. (2022). Training language models to follow instructions with human feedback. In Proceedings of the Neural Information Processing Systems (NeurIPS), 27730-27744.
-- Wang, H., & Li, Y.-F. (2023). *Empowering ChatGPT-Like Large-Scale Language Models with Local Knowledge Base for Industrial Prognostics and Health Management*.
 - Akkermans, H., van Dongen, L., & Schouten, R. (2016). Smart Moves for Smart Maintenance.
+- Anthropic. (2023). *Claude: Advancements in AI Technologies for Semantic Comprehension and Feature Representation*. Anthropic Publications.
+- Cao, Y., Li, S., Liu, Y., & Yan, Z., et al. (2023). A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI From GAN to Chatgpt. [Online]. Available: https://arxiv.org/abs/2303.04226.
+- Erdogan, Z., Altuntas, S., & Dereli, T. (2022). Predicting Patent Quality Based on Machine Learning Approach. IEEE Transactions on Engineering Management, 1-14.
 - Hai Qiu, D. J. L., & Lee, J. (University of Cincinnati). Near-Zero Downtime: Overview and Trends.
 - Hoftun, L. B. (2017). Fremtidens vedlikeholdsstyring av trommelmotorer ved SalMar AS. NTNU.
 - Kans, M., & Galar, D. (2017). The Impact of Maintenance 4.0 And Big Data Analytics within Strategic Asset Management.
+- Lee, J., Wu, F., Zhao, W., & Ghaffari, M. (2014). Prognostics and health management design for rotary machinery systems — Reviews, methodology and applications. Mechanical Systems and Signal Processing, 42(1), 314-334.
+- Li, Y., Wang, H., & Sun, M. (2023). "ChatGPT-Like Large-Scale Foundation Models for Prognostics and Health Management: A Survey and Roadmaps." [Online]. Available: https://arxiv.org/abs/2305.06472.
+- Ouyang, L., Wu, J., Jiang, X., & Almeida, D., et al. (2022). Training language models to follow instructions with human feedback. In Proceedings of the Neural Information Processing Systems (NeurIPS), 27730-27744.
+- OpenAI. (2023). "GPT-4 Technical Report." [Online]. Available: https://arxiv.org/abs/2303.08774.
 - Samferdselsdepartement, D. K. (2015). Meld. St. 27 Melding til Stortinget. På rett spor. Reform av Jernbanesektoren.
 - Stern, S., Bach, A., Eisenschmidt, E., Reimig, S., Schirmers, L., & Schwerdt, I. (2017). The rail sector's changing maintenance game. McKinsey.
-- Zenisek, J., et al. (2017). Smart maintenance lifecycle management: A design proposal.
-- Zhao, W.X., Zhou, K., Li, J., & Tang, T., et al. (2023). "A survey of large language models." [Online]. Available: https://arxiv.org/abs/2303.18223.
-- OpenAI. (2023). "GPT-4 Technical Report." [Online]. Available: https://arxiv.org/abs/2303.08774.
-- Anthropic. (2023). *Claude: Advancements in AI Technologies for Semantic Comprehension and Feature Representation*. Anthropic Publications.
 - Sun, Y., Wang, S., Feng, S., & Ding, S., et al. (2021). "Ernie 3.0: Large-scale knowledge enhanced pre-training for language understanding and generation." [Online]. Available: https://arxiv.org/abs/2107.02137.
 - Sun, Y., Wang, S., Li, Y., & Feng, S., et al. (2020). "Ernie 2.0: A continual pretraining framework for language understanding." in Proc. AAAI Conference on Artificial Intelligence, pp. 8968-8975.
-- Li, Y., Wang, H., & Sun, M. (2023). "ChatGPT-Like Large-Scale Foundation Models for Prognostics and Health Management: A Survey and Roadmaps." [Online]. Available: https://arxiv.org/abs/2305.06472.
+- Wang, H., & Li, Y.-F. (2023). *Empowering ChatGPT-Like Large-Scale Language Models with Local Knowledge Base for Industrial Prognostics and Health Management*.
+- Wang, H., Li, Y., & Ren, J. (2023). Machine learning for fault diagnosis of high-speed train traction systems: A review. Frontiers of Engineering Management, 1-17.
+- Zhang, Y., & Li, Y. (2022). Prognostics and health management of Lithium-ion battery using deep learning methods: A review. Renewable and Sustainable Energy Reviews, 161, 112282.
+- Ren, Z., Verma, A.S., Li, Y., & Teuwen, J.J.E., et al. (2021). Offshore wind turbine operations and maintenance: A state-of-the-art review. Renewable and Sustainable Energy Reviews, 144, 110886.
+- Zhou, C., Li, Q., Li, C., & Yu, J., et al. (2023). A Comprehensive Survey on Pretrained Foundation Models: A History From Bert to Chatgpt. [Online]. Available: https://arxiv.org/abs/2302.09419.
+
+
+
+
+
+
+
+
+- Zenisek, J., et al. (2017). Smart maintenance lifecycle management: A design proposal.
+- Zhao, W.X., Zhou, K., Li, J., & Tang, T., et al. (2023). "A survey of large language models." [Online]. Available: https://arxiv.org/abs/2303.18223.
+
+
+
